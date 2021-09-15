@@ -26,7 +26,7 @@ export default class SignUp extends Component {
                     <input type="password" className="form-control" placeholder="Coloque sua senha" />
                 </div>
 
-                <button type="submit" className="btn btn-dark btn-lg btn-block">Registrar</button>
+                <button type="submit" className="btn btn-primary btn-lg btn-block">Registrar</button>
                 <p className="forgot-password text-right">
                  <a href="#">Já registrado?</a>
                 </p>

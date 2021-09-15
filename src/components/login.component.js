@@ -24,7 +24,7 @@ export default class Login extends Component {
                     </div>
                 </div>
 
-                <button type="submit" className="btn btn-dark btn-lg btn-block">Entrar</button>
+                <button type="submit" className="btn btn-primary btn-lg btn-block">Entrar</button>
                 <p className="forgot-password text-right">
                     <a href="#"> Esqueceu sua senha?</a>
                 </p>
